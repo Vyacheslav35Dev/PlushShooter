@@ -1,2 +1,2 @@
 # PussyShooter
-Shooter
+Shooter for YandexGames
